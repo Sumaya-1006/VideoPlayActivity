@@ -3,9 +3,31 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Sumaya Akter/AndroidStudioProjects/VideoPlayActivity/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.2605" />
+        <entry key="..\:/Users/Sumaya Akter/AndroidStudioProjects/VideoPlayActivity/app/src/main/res/drawable/ic_baseline_brightness_5_24.xml" value="0.2605" />
+        <entry key="..\:/Users/Sumaya Akter/AndroidStudioProjects/VideoPlayActivity/app/src/main/res/drawable/ic_baseline_brightness_low_24.xml" value="0.229" />
+        <entry key="..\:/Users/Sumaya Akter/AndroidStudioProjects/VideoPlayActivity/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.2605" />
+        <entry key="..\:/Users/Sumaya Akter/AndroidStudioProjects/VideoPlayActivity/app/src/main/res/drawable/ic_baseline_forward_5_24.xml" value="0.2605" />
+        <entry key="..\:/Users/Sumaya Akter/AndroidStudioProjects/VideoPlayActivity/app/src/main/res/drawable/ic_baseline_fullscreen_24.xml" value="0.2605" />
+        <entry key="..\:/Users/Sumaya Akter/AndroidStudioProjects/VideoPlayActivity/app/src/main/res/drawable/ic_baseline_fullscreen_exit_24.xml" value="0.2605" />
+        <entry key="..\:/Users/Sumaya Akter/AndroidStudioProjects/VideoPlayActivity/app/src/main/res/drawable/ic_baseline_pause_circle_outline_24.xml" value="0.2605" />
+        <entry key="..\:/Users/Sumaya Akter/AndroidStudioProjects/VideoPlayActivity/app/src/main/res/drawable/ic_baseline_play_arrow_24.xml" value="0.2605" />
+        <entry key="..\:/Users/Sumaya Akter/AndroidStudioProjects/VideoPlayActivity/app/src/main/res/drawable/ic_baseline_play_circle_24.xml" value="0.2605" />
+        <entry key="..\:/Users/Sumaya Akter/AndroidStudioProjects/VideoPlayActivity/app/src/main/res/drawable/ic_baseline_replay_24.xml" value="0.2605" />
+        <entry key="..\:/Users/Sumaya Akter/AndroidStudioProjects/VideoPlayActivity/app/src/main/res/drawable/ic_baseline_volume.xml" value="0.2605" />
+        <entry key="..\:/Users/Sumaya Akter/AndroidStudioProjects/VideoPlayActivity/app/src/main/res/drawable/ic_baseline_volume_off_24.xml" value="0.2605" />
+        <entry key="..\:/Users/Sumaya Akter/AndroidStudioProjects/VideoPlayActivity/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2605" />
+        <entry key="..\:/Users/Sumaya Akter/AndroidStudioProjects/VideoPlayActivity/app/src/main/res/drawable/loading_rectangle.xml" value="0.2605" />
+        <entry key="..\:/Users/Sumaya Akter/AndroidStudioProjects/VideoPlayActivity/app/src/main/res/drawable/progress_bar_bg.xml" value="0.229" />
+        <entry key="..\:/Users/Sumaya Akter/AndroidStudioProjects/VideoPlayActivity/app/src/main/res/drawable/vertical_progress_bar.xml" value="0.229" />
+        <entry key="..\:/Users/Sumaya Akter/AndroidStudioProjects/VideoPlayActivity/app/src/main/res/drawable/vol_progress_shape.xml" value="0.229" />
+        <entry key="..\:/Users/Sumaya Akter/AndroidStudioProjects/VideoPlayActivity/app/src/main/res/drawable/volume_mute.xml" value="0.2605" />
         <entry key="..\:/Users/Sumaya Akter/AndroidStudioProjects/VideoPlayActivity/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
-        <entry key="..\:/Users/Sumaya Akter/AndroidStudioProjects/VideoPlayActivity/app/src/main/res/layout/activity_watch.xml" value="0.35260416666666666" />
-        <entry key="..\:/Users/Sumaya Akter/AndroidStudioProjects/VideoPlayActivity/app/src/main/res/layout/custom_controller.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Sumaya Akter/AndroidStudioProjects/VideoPlayActivity/app/src/main/res/layout/activity_watch.xml" value="0.22" />
+        <entry key="..\:/Users/Sumaya Akter/AndroidStudioProjects/VideoPlayActivity/app/src/main/res/layout/brt_dialog_item.xml" value="0.30012825994014536" />
+        <entry key="..\:/Users/Sumaya Akter/AndroidStudioProjects/VideoPlayActivity/app/src/main/res/layout/custom_controller.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/Sumaya Akter/AndroidStudioProjects/VideoPlayActivity/app/src/main/res/layout/swipe_zoom_design.xml" value="0.30012825994014536" />
+        <entry key="..\:/Users/Sumaya Akter/AndroidStudioProjects/VideoPlayActivity/app/src/main/res/layout/vol_dialog_item.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>

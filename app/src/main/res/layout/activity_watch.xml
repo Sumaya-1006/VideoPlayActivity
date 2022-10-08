@@ -4,23 +4,26 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/purple_700"
-    >
+    android:background="#CFC9C9">
 
     <com.google.android.exoplayer2.ui.PlayerView
         android:id="@+id/player"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@android:color/background_dark"
+        android:background="#D3FAF7F7"
         app:controller_layout_id="@layout/custom_controller"
         app:player_layout_id="@layout/exo_player_view"
         app:use_controller="true" />
 
+
     <ProgressBar
         android:layout_width="80dp"
         android:layout_height="80dp"
-        android:id="@+id/progress_bar"
+        android:id="@+id/progressbarId"
         android:layout_centerInParent="true"/>
+
+
+
 
     <LinearLayout
         android:layout_width="wrap_content"
@@ -41,7 +44,7 @@
 
         <TextView
             android:id="@+id/tx_ad_countdown"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Ad in 5"
             android:textColor="@color/black"
